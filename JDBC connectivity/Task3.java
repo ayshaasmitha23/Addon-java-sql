@@ -1,6 +1,4 @@
-
 import java.sql.*;
-
 public class DisplayStudents {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/your_database";
